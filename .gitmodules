@@ -1,3 +1,6 @@
 [submodule "Project1/Coffee"]
 	path = Project1/Coffee
 	url = /mnt/sda6/Programlama/ProgramlamaDilleri/CSE341_ProgrammingLanguages/Project1/Coffee
+[submodule "Project2/Coffee"]
+	path = Project2/Coffee
+	url = /mnt/sda6/Programlama/ProgramlamaDilleri/CSE341_ProgrammingLanguages/Project2/Coffee
